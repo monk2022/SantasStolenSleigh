@@ -1,0 +1,9 @@
+Package: SantasStolenSleigh
+Title: Analyzes my entry in the Kaggle competition of the same name.
+Version: 0.0.0.9000
+Authors@R: person("Josh", "Monk", email = "jmonk180@gmail.com", role = c("aut", "cre"))
+Description: Optimizes route and weight loads of Santa's seligh.
+Depends: R (>= 3.2.2)
+License: CC0
+LazyData: true
+VignetteBuilder: knitr
